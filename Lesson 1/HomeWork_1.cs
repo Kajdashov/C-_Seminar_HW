@@ -38,18 +38,18 @@ if(c>max) max = c;
 Console.WriteLine($"Максимальное число = {max}");
 
 // Задание 6
-// Определяем число четное или не четное
+// Определяем число четное или нечетное
 Console.Write("Введите число: ");
 int number = int.Parse(Console.ReadLine());
 
 if(number % 2 == 0){
     Console.WriteLine("Число четное");
 } else{
-    Console.WriteLine("Число не четное");
+    Console.WriteLine("Число нечетное");
 }
 
 // Задание 8
-// Программа которая показывает все четные числадо введенного числа
+// Программа которая показывает все четные числа до введенного числа
 Console.Write("Введите число: ");
 int num = int.Parse(Console.ReadLine());
 int count = 1;
