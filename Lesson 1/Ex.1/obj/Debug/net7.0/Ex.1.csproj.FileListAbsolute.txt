@@ -1,0 +1,15 @@
+D:\GeekBrains\QA\1 четверть\3.Знакомство с языками программирования (семинары)\HomeWork C#\Lesson 1\Ex.1\obj\Debug\net7.0\Ex.1.csproj.AssemblyReference.cache
+D:\GeekBrains\QA\1 четверть\3.Знакомство с языками программирования (семинары)\HomeWork C#\Lesson 1\Ex.1\obj\Debug\net7.0\Ex.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\QA\1 четверть\3.Знакомство с языками программирования (семинары)\HomeWork C#\Lesson 1\Ex.1\obj\Debug\net7.0\Ex.1.AssemblyInfoInputs.cache
+D:\GeekBrains\QA\1 четверть\3.Знакомство с языками программирования (семинары)\HomeWork C#\Lesson 1\Ex.1\obj\Debug\net7.0\Ex.1.AssemblyInfo.cs
+D:\GeekBrains\QA\1 четверть\3.Знакомство с языками программирования (семинары)\HomeWork C#\Lesson 1\Ex.1\obj\Debug\net7.0\Ex.1.csproj.CoreCompileInputs.cache
+D:\GeekBrains\QA\1 четверть\3.Знакомство с языками программирования (семинары)\HomeWork C#\Lesson 1\Ex.1\bin\Debug\net7.0\Ex.1.exe
+D:\GeekBrains\QA\1 четверть\3.Знакомство с языками программирования (семинары)\HomeWork C#\Lesson 1\Ex.1\bin\Debug\net7.0\Ex.1.deps.json
+D:\GeekBrains\QA\1 четверть\3.Знакомство с языками программирования (семинары)\HomeWork C#\Lesson 1\Ex.1\bin\Debug\net7.0\Ex.1.runtimeconfig.json
+D:\GeekBrains\QA\1 четверть\3.Знакомство с языками программирования (семинары)\HomeWork C#\Lesson 1\Ex.1\bin\Debug\net7.0\Ex.1.dll
+D:\GeekBrains\QA\1 четверть\3.Знакомство с языками программирования (семинары)\HomeWork C#\Lesson 1\Ex.1\bin\Debug\net7.0\Ex.1.pdb
+D:\GeekBrains\QA\1 четверть\3.Знакомство с языками программирования (семинары)\HomeWork C#\Lesson 1\Ex.1\obj\Debug\net7.0\Ex.1.dll
+D:\GeekBrains\QA\1 четверть\3.Знакомство с языками программирования (семинары)\HomeWork C#\Lesson 1\Ex.1\obj\Debug\net7.0\refint\Ex.1.dll
+D:\GeekBrains\QA\1 четверть\3.Знакомство с языками программирования (семинары)\HomeWork C#\Lesson 1\Ex.1\obj\Debug\net7.0\Ex.1.pdb
+D:\GeekBrains\QA\1 четверть\3.Знакомство с языками программирования (семинары)\HomeWork C#\Lesson 1\Ex.1\obj\Debug\net7.0\Ex.1.genruntimeconfig.cache
+D:\GeekBrains\QA\1 четверть\3.Знакомство с языками программирования (семинары)\HomeWork C#\Lesson 1\Ex.1\obj\Debug\net7.0\ref\Ex.1.dll
