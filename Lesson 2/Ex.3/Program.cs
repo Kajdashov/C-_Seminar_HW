@@ -3,8 +3,6 @@
 // Console.Write("Введите День недели: ");
 // int num = int.Parse(Console.ReadLine()!)!;
 
-
-
 int Prompt(string outprint)
 {
 
