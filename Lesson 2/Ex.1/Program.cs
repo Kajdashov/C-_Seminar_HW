@@ -1,6 +1,19 @@
-﻿Console.Write("Введите трехзначное число: ");
-int num = int.Parse(Console.ReadLine());
+﻿// Задача 10: Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
 
-int sum = (num / 10) % 10;
+Console.Write("Введите трехзначное число: ");
+int num = int.Parse(Console.ReadLine()!)!;
 
-Console.WriteLine($"Вторая цифра вашего числа {sum}");
+if ( ( num < 100 ) || ( num >= 1000 ) )
+{
+
+    Console.WriteLine( "Вы ввели не трехзначное число, " );
+    Console.WriteLine( "Попробуйте заново." );   
+   
+} 
+    else
+    {
+
+        int sum = ( num / 10 ) % 10;
+        Console.WriteLine( $"Вторая цифра вашего числа {sum}" );
+
+    }
