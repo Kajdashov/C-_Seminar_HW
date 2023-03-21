@@ -3,7 +3,7 @@
 // [-4, -6, 89, 6] -> 0
 
 int[] array = GetRandomArray(10, -10, 10);
-Console.WriteLine($"Ранодомный массив = [{String.Join(",", array)}]");
+Console.WriteLine($"Рандомный массив = [{String.Join(",", array)}]");
 System.Console.WriteLine($"Сумма чисел на нечетных индексах = {number(array)}");
 
 
