@@ -73,7 +73,10 @@ int[] GetRandomArray(int size, int minValue, int maxValue)
 // Задайте массив вещественных чисел. Найдите разницу между максимальным и минимальным элементов массива.(https://learn.microsoft.com/ru-ru/dotnet/api/system.random.nextdouble?view=net-7.0)
 // [3, 7.4, 22.3, 2, 78] -> 76
 
-double[] array = { 3, 7.4, 22.3, 2, 78 }; // Заданный массив из вещественных чисел
+double[] array = GetRandomArrayRandom(10/*, -10, 10*/);
+Console.WriteLine($"Ранодомный массив = [{String.Join(" , ", array)}]");
+
+// double[] array = { 3, 7.4, 22.3, 2, 78 }; // Заданный массив из вещественных чисел
 
 System.Console.WriteLine($"В заданном массиве вещественных чисел, максимальное = {Max(array)}");
 System.Console.WriteLine();
@@ -111,3 +114,27 @@ double Difference(double min, double max)
     double difference = max - min;
     return difference;
 }
+
+// -------------------------------Общий метод-------------------------------------------
+double[] GetRandomArrayRandom(int size/*, int minValue, int maxValue*/)
+            {
+                double[] result = new double[size];
+                for (int i = 0; i < size; i++)
+                {
+                    result[i] = Math.Round(new Random().NextDouble() * 10, 1);
+                }
+
+                return result;
+            }
+
+
+    // int[] GetRandomArray(int size, int minValue, int maxValue)
+    //         {
+    //             int[] result = new int[size];
+    //             for (int i = 0; i < size; i++)
+    //             {
+    //                 result[i] = new Random().Next(minValue, maxValue + 1);
+    //             }
+
+    //             return result;
+    //         }
