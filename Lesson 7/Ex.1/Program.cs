@@ -5,7 +5,7 @@
 // 8 7,8 -7,1 9
 
 int m = Prompt("Введите количество строк: ");
-int n = Prompt("Введите количество столбуов: ");
+int n = Prompt("Введите количество столбцов: ");
 
 double[,] doubleArray = GetArrayDouble(m, n, 0, 99);
 PrintArray(doubleArray);
