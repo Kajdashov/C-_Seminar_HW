@@ -4,8 +4,8 @@
 // 1 -3,3 8 -9,9
 // 8 7,8 -7,1 9
 
-int m = Prompt("Введите количество строк: ");
-int n = Prompt("Введите количество столбцов: ");
+int m = Prompt("Введите количество столбцов: ");
+int n = Prompt("Введите количество строк: ");
 
 double[,] doubleArray = GetArrayDouble(m, n, 0, 99);
 PrintArray(doubleArray);
